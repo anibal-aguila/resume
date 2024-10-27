@@ -6,7 +6,7 @@
 #=========================================================================================
 
 base_url = "https://resume.rs"      # Domain name of your website
-title = "RESUME"
+title = "RESUME :: Anibal Aguila"
 description = "Summarizing professional background, skills, and qualifications."
 default_language = "en"
 theme = "standard"
