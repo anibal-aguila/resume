@@ -1,0 +1,3 @@
+[submodule "themes/standard"]
+	path = themes/standard
+	url = https://github.com/resume-rs/themes-standard
